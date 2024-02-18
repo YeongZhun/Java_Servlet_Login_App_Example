@@ -1,3 +1,5 @@
+Video example: https://www.youtube.com/watch?v=awSKVNycuuE
+
 Heavily referenced this: https://www.javaguides.net/2019/03/login-form-using-jsp-servlet-jdbc-mysql-example.html
 
 First go download Apache TomCat, mine is apache-tomcat-10.1.18-windows-x64 from https://tomcat.apache.org/download-10.cgi. Then download mysql-connector from https://dev.mysql.com/downloads/connector/j/ (select platform independent). Add these two .jar files into ...\webapp\WEB-INF\lib directory.
